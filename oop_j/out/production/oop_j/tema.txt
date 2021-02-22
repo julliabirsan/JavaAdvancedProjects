@@ -1,0 +1,18 @@
+Tema:
+
+1.Adaugati functionalitatea prin care
+se percepe un comision de 10% pentru fiecare
+transfer pt conturile curente.
+
+2.ce facem cu persoana?
+contul de economii cum va fi legat de o persoana?
+
+3.sa citim de la tastatura ce operatiuni sa facem:
+de ex:
+	1. cont curent sau cont economii?
+	2.sa se afiseze ce operatiuni se pot face?
+	3.sa se citeasca de la tastatura suma pt operatiuni,
+	contul destinatie pt transfer, etc
+
+
+	next: interfete, clase abstracte
