@@ -36,7 +36,7 @@ public abstract class Cont {
         this.amount -=sum;
     }
 
-    public abstract void retragereBani(double sum, String valuta);
+    public abstract void retragereBani(double sum, String valuta) throws FONDURI_INSUFICIENTE;
     public abstract void depunereBani(double sum, String valuta);
 
 }
